@@ -22,9 +22,9 @@ import Icons from 'unplugin-icons/vite';
 
 import fetchCaptain from './plugin';
 
-const ruid = 117906;
+const ruid = 3546722674412189;
 
-const roomid = 11306;
+const roomid = 1757322059;
 
 export default defineConfig({
   define: {
